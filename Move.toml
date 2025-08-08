@@ -1,0 +1,15 @@
+[package]
+name = "MyFirstMovePackage"
+version = "0.0.0"
+authors = ["Priyanshu"]
+
+[addresses]
+my_addrx = "0x42"
+MyModule = "0x7613446b9780d4c96ac64b8e3bb145ac78df09080f56482d19a02bd87e4d7a43"
+std = "0x1"
+
+
+[dependencies]
+AptosFramework = { git = "https://github.com/aptos-labs/aptos-core.git", subdir = "aptos-move/framework/aptos-framework", rev = "main" }
+
+[dev-dependencies]
