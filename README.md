@@ -30,11 +30,29 @@ This project serves as a foundation for more advanced token management systems o
 
 ## 📌 Contract Address
 `0xYOUR_DEPLOYED_CONTRACT_ADDRESS`
+Transaction submitted: https://explorer.aptoslabs.com/txn/0x1986fcc65a8ba1e31b152b41a51c4d6bc787f392869c75e282fb5c4614eb01ef?network=devnet
+{
+  "Result": {
+    "transaction_hash": "0x1986fcc65a8ba1e31b152b41a51c4d6bc787f392869c75e282fb5c4614eb01ef",
+    "gas_used": 82,
+    "gas_unit_price": 100,
+    "sender": "7613446b9780d4c96ac64b8e3bb145ac78df09080f56482d19a02bd87e4d7a43",
+    "sequence_number": 1,
+    "replay_protector": {
+      "SequenceNumber": 1
+    },
+    "success": true,
+    "timestamp_us": 1754653214909305,
+    "version": 28559420,
+    "vm_status": "Executed successfully"
+  }
+}
 
 ## 📷 Deployment Screenshot
 ![Deployment Screenshot](deployment.png)
 
 ---
+
 
 
 
