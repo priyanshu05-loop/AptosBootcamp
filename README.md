@@ -32,8 +32,9 @@ This project serves as a foundation for more advanced token management systems o
 `0xYOUR_DEPLOYED_CONTRACT_ADDRESS`
 
 ## 📷 Deployment Screenshot
-![Deployment Screenshot](assets/deployment.png)
+![Deployment Screenshot](deployment.png)
 
 ---
+
 
 
